@@ -1,6 +1,6 @@
 {
   "name": "autoprefixer-css-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility to automatically add vendor prefixes to CSS properties in JavaScript styling solutions.",
   "main": "index.js",
   "scripts": {
