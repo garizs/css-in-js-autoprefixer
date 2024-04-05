@@ -1,0 +1,29 @@
+{
+  "name": "css-in-js-autoprefixer",
+  "version": "1.0.1",
+  "description": "A simple utility to automatically add vendor prefixes to CSS properties in JavaScript styling solutions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garizs/css-in-js-autoprefixer.git"
+  },
+  "keywords": [
+    "css",
+    "autoprefixer",
+    "styles",
+    "vendor",
+    "prefixes"
+  ],
+  "author": "garizs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garizs/css-in-js-autoprefixer/issues"
+  },
+  "homepage": "https://github.com/garizs/css-in-js-autoprefixer",
+  "dependencies": {
+    "autoprefixer": "^10.4.0"
+  }
+}
