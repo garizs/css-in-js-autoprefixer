@@ -1,4 +1,4 @@
-# CSS-in-JS Autoprefixer
+# CSS in JS Autoprefixer
 
 A simple utility to automatically add vendor prefixes to CSS properties in JavaScript styling solutions.
 
@@ -13,7 +13,7 @@ npm install autoprefixer-css-js
 Import the `autoprefix_with_styles` function and use it to add prefixes to your style objects.
 
 ```javascript
-import autoprefix_with_styles from 'css-in-js-autoprefixer';
+import auto_prefix_with_styles from 'css-in-js-autoprefixer';
 
 const userStyles = {
   transition: 'all 0.3s ease',
