@@ -5,7 +5,7 @@ A simple utility to automatically add vendor prefixes to CSS properties in JavaS
 ## Installation
 
 ```bash
-npm install css-in-js-autoprefixer
+npm install autoprefixer-css-js
 ```
 
 ## Usage
